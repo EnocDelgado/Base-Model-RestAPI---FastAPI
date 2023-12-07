@@ -1,4 +1,4 @@
-# FastAPI Base Model
+# RestAPI - Base Model with FastAPI
 
 ## Main Steps
 1. **Create an environment:**
@@ -25,16 +25,6 @@
 
 3. **Install requirements:**
 
-    
-    ```
-    pip install requirements.txt
-    ```
-    **or**
-    ```
-    pip install -r requirements.txt
-    ```
-
-    **Install Requirements:**
     ```
     pip install -r requirements.txt
     ```
